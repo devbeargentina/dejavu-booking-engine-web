@@ -1,0 +1,6 @@
+{
+  "apiUrl" : "https://package-api.travelcarma.com/api/v1/",
+  "paymentInitUrl" : "https://package-api.travelcarma.com/api/v1/pg/init/",
+  "paymentStatusUrl" : "https://package-api.travelcarma.com/v1/pg/transaction/status/",
+  "webUrl" : "http://localhost:3000"
+}

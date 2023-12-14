@@ -1,0 +1,2219 @@
+[{
+  "_id": "f98b1d37a3647112045c64aa",
+  "PackageID": 101,
+  "PackageTitle": "Explore Bali",
+  "Category": [
+    "Adventure",
+    "Nature"
+  ],
+  "PackageType": [
+    "Group",
+    "Private"
+  ],
+  "BestSeasion": [
+    "Summer",
+    "Spring"
+  ],
+  "CountryName": "india",
+  "StateName": "Dehli",
+  "CityName": "Ahmedabad",
+  "StarRating": 5,
+  "MaxAltitude": "3500 Ft.",
+  "Difficulty": "Moderate",
+  "Distance": "8 km",
+  "Destinations": [
+    {
+      "DestinationName": "Zurich",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-02-01T00:00:00.000Z"
+          },
+          "Available": 20,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-02-01T00:00:00.000Z"
+          },
+          "Available": 15,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-01-01T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 1000,
+      "ChildPrice": 800,
+      "GST": 18,
+      "Discount": 10,
+      "BookBefore": {
+        "Days": 20,
+        "Refundable": true
+      },
+      "PartPaymentType": "Percentage",
+      "PartPaymentValue": 50,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Airport Pickup",
+          "Price": 100
+        },
+        {
+          "ServiceName": "Guide Service",
+          "Price": 300
+        }
+      ]
+    },
+    {
+      "DestinationName": "Ahmedabad",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-03-15T00:00:00.000Z"
+          },
+          "Available": 10,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-02-15T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-01-15T00:00:00.000Z"
+          },
+          "Available": 2,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 1200,
+      "ChildPrice": 1000,
+      "GST": 18,
+      "Discount": 5,
+      "BookBefore": {
+        "Days": 10,
+        "Refundable": false
+      },
+      "PartPaymentType": "Fixed",
+      "PartPaymentValue": 500,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Equipment Rental",
+          "Price": 200
+        },
+        {
+          "ServiceName": "Cable Car Ride",
+          "Price": 150
+        }
+      ]
+    }
+  ],
+  "Overview": "Experience the culture and beauty of Bali on this 7-day adventure. From exploring rice terraces to soaking up the sun on the beaches, this tour offers something for everyone.",
+  "MainAttraction": "Visit the iconic temples of Bali, including the Ulun Danu Beratan Temple and the Tanah Lot Temple. Experience traditional Balinese culture with a visit to the Ubud Market and a Balinese dance performance.",
+  "PriceGuideLine": "Prices are per person based on double occupancy. Single supplement and triple occupancy rates are available on request. Prices are exclusive of airfare, visa fees, and any additional taxes or fees.",
+  "TermsConditions": "Cancellation fees may apply. Please contact us for more information.",
+  "Inclusion": [
+    "Accommodation in 4-star hotels",
+    "Transportation between destinations",
+    "English-speaking guide",
+    "Meals as indicated in the itinerary"
+  ],
+  "Exclusion": [
+    "International airfare",
+    "Visa fees",
+    "Travel insurance",
+    "Optional tours and activities",
+    "Personal expenses"
+  ],
+  "ItineraryDays": [
+    {
+      "ItineraryTitle": "Day 1",
+      "ItineraryDetails": "&lt;p&gt;1. One open water dive of",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "ItineraryTitle": "Day 2",
+      "ItineraryDetails": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "Faqs": [
+    {
+      "Question": "sfdsfd",
+      "Answer": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;"
+    },
+    {
+      "Question": "fdsfsdf",
+      "Answer": "&lt;p&gt;Get ready to be blown away with the rich marine diversity and over 100 species of fish that Goa has to offer as we take you on a magical boat ride with your friends and family on an 8 hour excursion on the sea. Sight delightful dolphins on the way to Grandé Island where you get to scuba dive and snorkel in amazing dive sites like Suzy’s Wreck, Coral Garden, Bounty Bay, Lobsters’ Avenue, and Shelter Cove.&lt;/p&gt;&lt;p&gt;As Goa Tourism&apos;s exclusive Diving Centre, we guarantee you an unforgettable and surreal scuba diving experience. In our 3rd season of operation, we were already on TripAdvisor’s ‘The 10 Best India Scuba and Snorkeling Activities.’ We also have the added distinction of being affiliated with PADI and SSI, two of the world&apos;s leading diver training organizations. Our PADI and SSI certified instructors have dived in the waters all around the globe and are there to guide you, entertain you, and keep you safe in the event of any exigency. We have the equipment, the tra&lt;/p&gt;"
+    }
+  ],
+  "PackageMedia": [
+    {
+      "IsDefaultImage": true,
+      "FileExtension": "jpeg",
+      "FileName": "b1.jpeg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "jpg",
+      "FileName": "somnath.jpg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "pdf",
+      "FileName": "complaint_form.pdf",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "IsPublish": true,
+  "PackageCreatedBy": 0,
+  "PackageCreatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageUpdatedBy": 0,
+  "PackageUpdatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageIsActive": false
+},{
+  "_id": "f98b1d37a3647112045c64bb",
+  "PackageID": 102,
+  "PackageTitle": "Explore Singapore",
+  "Category": [
+    "Adventure",
+    "Nature"
+  ],
+  "PackageType": [
+    "Group",
+    "Private"
+  ],
+  "BestSeasion": [
+    "Summer",
+    "Spring"
+  ],
+  "CountryName": "india",
+  "StateName": "gujarat",
+  "CityName": "Ahmedabad",
+  "StarRating": 5,
+  "MaxAltitude": "3500 Ft.",
+  "Difficulty": "Moderate",
+  "Distance": "8 km",
+  "Destinations": [
+    {
+      "DestinationName": "Zurich",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-06-01T00:00:00.000Z"
+          },
+          "Available": 0,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-07-01T00:00:00.000Z"
+          },
+          "Available": 0,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-08-01T00:00:00.000Z"
+          },
+          "Available": 0,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 1000,
+      "ChildPrice": 800,
+      "GST": 18,
+      "Discount": 10,
+      "BookBefore": {
+        "Days": 20,
+        "Refundable": true
+      },
+      "PartPaymentType": "Percentage",
+      "PartPaymentValue": 50,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Airport Pickup",
+          "Price": 100
+        },
+        {
+          "ServiceName": "Guide Service",
+          "Price": 300
+        }
+      ]
+    },
+    {
+      "DestinationName": "Lucerne",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-06-15T00:00:00.000Z"
+          },
+          "Available": 10,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-07-15T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-08-15T00:00:00.000Z"
+          },
+          "Available": 2,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 1200,
+      "ChildPrice": 1000,
+      "GST": 18,
+      "Discount": 5,
+      "BookBefore": {
+        "Days": 10,
+        "Refundable": false
+      },
+      "PartPaymentType": "Fixed",
+      "PartPaymentValue": 500,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Equipment Rental",
+          "Price": 200
+        },
+        {
+          "ServiceName": "Cable Car Ride",
+          "Price": 150
+        }
+      ]
+    }
+  ],
+  "Overview": "Experience the culture and beauty of Bali on this 7-day adventure. From exploring rice terraces to soaking up the sun on the beaches, this tour offers something for everyone.",
+  "MainAttraction": "Visit the iconic temples of Bali, including the Ulun Danu Beratan Temple and the Tanah Lot Temple. Experience traditional Balinese culture with a visit to the Ubud Market and a Balinese dance performance.",
+  "PriceGuideLine": "Prices are per person based on double occupancy. Single supplement and triple occupancy rates are available on request. Prices are exclusive of airfare, visa fees, and any additional taxes or fees.",
+  "TermsConditions": "Cancellation fees may apply. Please contact us for more information.",
+  "Inclusion": [
+    "Accommodation in 4-star hotels",
+    "Transportation between destinations",
+    "English-speaking guide",
+    "Meals as indicated in the itinerary"
+  ],
+  "Exclusion": [
+    "International airfare",
+    "Visa fees",
+    "Travel insurance",
+    "Optional tours and activities",
+    "Personal expenses"
+  ],
+  "ItineraryDays": [
+    {
+      "ItineraryTitle": "Day 1",
+      "ItineraryDetails": "&lt;p&gt;1. One open water dive of",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "ItineraryTitle": "Day 2",
+      "ItineraryDetails": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "Faqs": [
+    {
+      "Question": "sfdsfd",
+      "Answer": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;"
+    },
+    {
+      "Question": "fdsfsdf",
+      "Answer": "&lt;p&gt;Get ready to be blown away with the rich marine diversity and over 100 species of fish that Goa has to offer as we take you on a magical boat ride with your friends and family on an 8 hour excursion on the sea. Sight delightful dolphins on the way to Grandé Island where you get to scuba dive and snorkel in amazing dive sites like Suzy’s Wreck, Coral Garden, Bounty Bay, Lobsters’ Avenue, and Shelter Cove.&lt;/p&gt;&lt;p&gt;As Goa Tourism&apos;s exclusive Diving Centre, we guarantee you an unforgettable and surreal scuba diving experience. In our 3rd season of operation, we were already on TripAdvisor’s ‘The 10 Best India Scuba and Snorkeling Activities.’ We also have the added distinction of being affiliated with PADI and SSI, two of the world&apos;s leading diver training organizations. Our PADI and SSI certified instructors have dived in the waters all around the globe and are there to guide you, entertain you, and keep you safe in the event of any exigency. We have the equipment, the tra&lt;/p&gt;"
+    }
+  ],
+  "PackageMedia": [
+    {
+      "IsDefaultImage": true,
+      "FileExtension": "jpeg",
+      "FileName": "b1.jpeg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "jpg",
+      "FileName": "somnath.jpg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "pdf",
+      "FileName": "complaint_form.pdf",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "IsPublish": true,
+  "PackageCreatedBy": 0,
+  "PackageCreatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageUpdatedBy": 0,
+  "PackageUpdatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageIsActive": false
+},{
+  "_id": "f98b1d37a3647112045c64cc",
+  "PackageID": 102,
+  "PackageTitle": "Explore Singapore cc",
+  "Category": [
+    "Adventure",
+    "Nature"
+  ],
+  "PackageType": [
+    "Group",
+    "Private"
+  ],
+  "BestSeasion": [
+    "Summer",
+    "Spring"
+  ],
+  "CountryName": "india",
+  "StateName": "gujarat",
+  "CityName": "Ahmedabad",
+  "StarRating": 5,
+  "MaxAltitude": "3500 Ft.",
+  "Difficulty": "Moderate",
+  "Distance": "8 km",
+  "Destinations": [
+    {
+      "DestinationName": "Zurich",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-06-01T00:00:00.000Z"
+          },
+          "Available": 20,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-07-01T00:00:00.000Z"
+          },
+          "Available": 15,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-08-01T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 1000,
+      "ChildPrice": 800,
+      "GST": 18,
+      "Discount": 10,
+      "BookBefore": {
+        "Days": 20,
+        "Refundable": true
+      },
+      "PartPaymentType": "Percentage",
+      "PartPaymentValue": 50,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Airport Pickup",
+          "Price": 100
+        },
+        {
+          "ServiceName": "Guide Service",
+          "Price": 300
+        }
+      ]
+    },
+    {
+      "DestinationName": "Lucerne",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-06-15T00:00:00.000Z"
+          },
+          "Available": 10,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-07-15T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-08-15T00:00:00.000Z"
+          },
+          "Available": 2,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 1200,
+      "ChildPrice": 1000,
+      "GST": 18,
+      "Discount": 5,
+      "BookBefore": {
+        "Days": 10,
+        "Refundable": false
+      },
+      "PartPaymentType": "Fixed",
+      "PartPaymentValue": 500,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Equipment Rental",
+          "Price": 200
+        },
+        {
+          "ServiceName": "Cable Car Ride",
+          "Price": 150
+        }
+      ]
+    }
+  ],
+  "Overview": "Experience the culture and beauty of Bali on this 7-day adventure. From exploring rice terraces to soaking up the sun on the beaches, this tour offers something for everyone.",
+  "MainAttraction": "Visit the iconic temples of Bali, including the Ulun Danu Beratan Temple and the Tanah Lot Temple. Experience traditional Balinese culture with a visit to the Ubud Market and a Balinese dance performance.",
+  "PriceGuideLine": "Prices are per person based on double occupancy. Single supplement and triple occupancy rates are available on request. Prices are exclusive of airfare, visa fees, and any additional taxes or fees.",
+  "TermsConditions": "Cancellation fees may apply. Please contact us for more information.",
+  "Inclusion": [
+    "Accommodation in 4-star hotels",
+    "Transportation between destinations",
+    "English-speaking guide",
+    "Meals as indicated in the itinerary"
+  ],
+  "Exclusion": [
+    "International airfare",
+    "Visa fees",
+    "Travel insurance",
+    "Optional tours and activities",
+    "Personal expenses"
+  ],
+  "ItineraryDays": [
+    {
+      "ItineraryTitle": "Day 1",
+      "ItineraryDetails": "&lt;p&gt;1. One open water dive of",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "ItineraryTitle": "Day 2",
+      "ItineraryDetails": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "Faqs": [
+    {
+      "Question": "sfdsfd",
+      "Answer": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;"
+    },
+    {
+      "Question": "fdsfsdf",
+      "Answer": "&lt;p&gt;Get ready to be blown away with the rich marine diversity and over 100 species of fish that Goa has to offer as we take you on a magical boat ride with your friends and family on an 8 hour excursion on the sea. Sight delightful dolphins on the way to Grandé Island where you get to scuba dive and snorkel in amazing dive sites like Suzy’s Wreck, Coral Garden, Bounty Bay, Lobsters’ Avenue, and Shelter Cove.&lt;/p&gt;&lt;p&gt;As Goa Tourism&apos;s exclusive Diving Centre, we guarantee you an unforgettable and surreal scuba diving experience. In our 3rd season of operation, we were already on TripAdvisor’s ‘The 10 Best India Scuba and Snorkeling Activities.’ We also have the added distinction of being affiliated with PADI and SSI, two of the world&apos;s leading diver training organizations. Our PADI and SSI certified instructors have dived in the waters all around the globe and are there to guide you, entertain you, and keep you safe in the event of any exigency. We have the equipment, the tra&lt;/p&gt;"
+    }
+  ],
+  "PackageMedia": [
+    {
+      "IsDefaultImage": true,
+      "FileExtension": "jpeg",
+      "FileName": "b1.jpeg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "jpg",
+      "FileName": "somnath.jpg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "pdf",
+      "FileName": "complaint_form.pdf",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "IsPublish": true,
+  "PackageCreatedBy": 0,
+  "PackageCreatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageUpdatedBy": 0,
+  "PackageUpdatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageIsActive": false
+},{
+  "_id": "f98b1d37a3647112045c64dd",
+  "PackageID": 102,
+  "PackageTitle": "Explore Singapore dd",
+  "Category": [
+    "Adventure",
+    "Nature"
+  ],
+  "PackageType": [
+    "Group",
+    "Private"
+  ],
+  "BestSeasion": [
+    "Summer",
+    "Spring"
+  ],
+  "CountryName": "india",
+  "StateName": "gujarat",
+  "CityName": "Ahmedabad",
+  "StarRating": 5,
+  "MaxAltitude": "3500 Ft.",
+  "Difficulty": "Moderate",
+  "Distance": "8 km",
+  "Destinations": [
+    {
+      "DestinationName": "Zurich",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-06-01T00:00:00.000Z"
+          },
+          "Available": 20,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-07-01T00:00:00.000Z"
+          },
+          "Available": 15,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-08-01T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 1000,
+      "ChildPrice": 800,
+      "GST": 18,
+      "Discount": 10,
+      "BookBefore": {
+        "Days": 20,
+        "Refundable": true
+      },
+      "PartPaymentType": "Percentage",
+      "PartPaymentValue": 50,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Airport Pickup",
+          "Price": 100
+        },
+        {
+          "ServiceName": "Guide Service",
+          "Price": 300
+        }
+      ]
+    },
+    {
+      "DestinationName": "Lucerne",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-06-15T00:00:00.000Z"
+          },
+          "Available": 10,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-07-15T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-08-15T00:00:00.000Z"
+          },
+          "Available": 2,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 1200,
+      "ChildPrice": 1000,
+      "GST": 18,
+      "Discount": 5,
+      "BookBefore": {
+        "Days": 10,
+        "Refundable": false
+      },
+      "PartPaymentType": "Fixed",
+      "PartPaymentValue": 500,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Equipment Rental",
+          "Price": 200
+        },
+        {
+          "ServiceName": "Cable Car Ride",
+          "Price": 150
+        }
+      ]
+    }
+  ],
+  "Overview": "Experience the culture and beauty of Bali on this 7-day adventure. From exploring rice terraces to soaking up the sun on the beaches, this tour offers something for everyone.",
+  "MainAttraction": "Visit the iconic temples of Bali, including the Ulun Danu Beratan Temple and the Tanah Lot Temple. Experience traditional Balinese culture with a visit to the Ubud Market and a Balinese dance performance.",
+  "PriceGuideLine": "Prices are per person based on double occupancy. Single supplement and triple occupancy rates are available on request. Prices are exclusive of airfare, visa fees, and any additional taxes or fees.",
+  "TermsConditions": "Cancellation fees may apply. Please contact us for more information.",
+  "Inclusion": [
+    "Accommodation in 4-star hotels",
+    "Transportation between destinations",
+    "English-speaking guide",
+    "Meals as indicated in the itinerary"
+  ],
+  "Exclusion": [
+    "International airfare",
+    "Visa fees",
+    "Travel insurance",
+    "Optional tours and activities",
+    "Personal expenses"
+  ],
+  "ItineraryDays": [
+    {
+      "ItineraryTitle": "Day 1",
+      "ItineraryDetails": "&lt;p&gt;1. One open water dive of",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "ItineraryTitle": "Day 2",
+      "ItineraryDetails": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "Faqs": [
+    {
+      "Question": "sfdsfd",
+      "Answer": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;"
+    },
+    {
+      "Question": "fdsfsdf",
+      "Answer": "&lt;p&gt;Get ready to be blown away with the rich marine diversity and over 100 species of fish that Goa has to offer as we take you on a magical boat ride with your friends and family on an 8 hour excursion on the sea. Sight delightful dolphins on the way to Grandé Island where you get to scuba dive and snorkel in amazing dive sites like Suzy’s Wreck, Coral Garden, Bounty Bay, Lobsters’ Avenue, and Shelter Cove.&lt;/p&gt;&lt;p&gt;As Goa Tourism&apos;s exclusive Diving Centre, we guarantee you an unforgettable and surreal scuba diving experience. In our 3rd season of operation, we were already on TripAdvisor’s ‘The 10 Best India Scuba and Snorkeling Activities.’ We also have the added distinction of being affiliated with PADI and SSI, two of the world&apos;s leading diver training organizations. Our PADI and SSI certified instructors have dived in the waters all around the globe and are there to guide you, entertain you, and keep you safe in the event of any exigency. We have the equipment, the tra&lt;/p&gt;"
+    }
+  ],
+  "PackageMedia": [
+    {
+      "IsDefaultImage": true,
+      "FileExtension": "jpeg",
+      "FileName": "b1.jpeg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "jpg",
+      "FileName": "somnath.jpg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "pdf",
+      "FileName": "complaint_form.pdf",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "IsPublish": true,
+  "PackageCreatedBy": 0,
+  "PackageCreatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageUpdatedBy": 0,
+  "PackageUpdatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageIsActive": false
+},{
+  "_id": "f98b1d37a3647112045c64ee",
+  "PackageID": 102,
+  "PackageTitle": "Explore Singapore ee",
+  "Category": [
+    "Adventure",
+    "Nature"
+  ],
+  "PackageType": [
+    "Group",
+    "Private"
+  ],
+  "BestSeasion": [
+    "Summer",
+    "Spring"
+  ],
+  "CountryName": "india",
+  "StateName": "gujarat",
+  "CityName": "Ahmedabad",
+  "StarRating": 5,
+  "MaxAltitude": "3500 Ft.",
+  "Difficulty": "Moderate",
+  "Distance": "8 km",
+  "Destinations": [
+    {
+      "DestinationName": "Zurich",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-06-01T00:00:00.000Z"
+          },
+          "Available": 20,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-07-01T00:00:00.000Z"
+          },
+          "Available": 15,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-08-01T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 1000,
+      "ChildPrice": 800,
+      "GST": 18,
+      "Discount": 10,
+      "BookBefore": {
+        "Days": 20,
+        "Refundable": true
+      },
+      "PartPaymentType": "Percentage",
+      "PartPaymentValue": 50,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Airport Pickup",
+          "Price": 100
+        },
+        {
+          "ServiceName": "Guide Service",
+          "Price": 300
+        }
+      ]
+    },
+    {
+      "DestinationName": "Lucerne",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-06-15T00:00:00.000Z"
+          },
+          "Available": 10,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-07-15T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-08-15T00:00:00.000Z"
+          },
+          "Available": 2,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 1200,
+      "ChildPrice": 1000,
+      "GST": 18,
+      "Discount": 5,
+      "BookBefore": {
+        "Days": 10,
+        "Refundable": false
+      },
+      "PartPaymentType": "Fixed",
+      "PartPaymentValue": 500,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Equipment Rental",
+          "Price": 200
+        },
+        {
+          "ServiceName": "Cable Car Ride",
+          "Price": 150
+        }
+      ]
+    }
+  ],
+  "Overview": "Experience the culture and beauty of Bali on this 7-day adventure. From exploring rice terraces to soaking up the sun on the beaches, this tour offers something for everyone.",
+  "MainAttraction": "Visit the iconic temples of Bali, including the Ulun Danu Beratan Temple and the Tanah Lot Temple. Experience traditional Balinese culture with a visit to the Ubud Market and a Balinese dance performance.",
+  "PriceGuideLine": "Prices are per person based on double occupancy. Single supplement and triple occupancy rates are available on request. Prices are exclusive of airfare, visa fees, and any additional taxes or fees.",
+  "TermsConditions": "Cancellation fees may apply. Please contact us for more information.",
+  "Inclusion": [
+    "Accommodation in 4-star hotels",
+    "Transportation between destinations",
+    "English-speaking guide",
+    "Meals as indicated in the itinerary"
+  ],
+  "Exclusion": [
+    "International airfare",
+    "Visa fees",
+    "Travel insurance",
+    "Optional tours and activities",
+    "Personal expenses"
+  ],
+  "ItineraryDays": [
+    {
+      "ItineraryTitle": "Day 1",
+      "ItineraryDetails": "&lt;p&gt;1. One open water dive of",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "ItineraryTitle": "Day 2",
+      "ItineraryDetails": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "Faqs": [
+    {
+      "Question": "sfdsfd",
+      "Answer": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;"
+    },
+    {
+      "Question": "fdsfsdf",
+      "Answer": "&lt;p&gt;Get ready to be blown away with the rich marine diversity and over 100 species of fish that Goa has to offer as we take you on a magical boat ride with your friends and family on an 8 hour excursion on the sea. Sight delightful dolphins on the way to Grandé Island where you get to scuba dive and snorkel in amazing dive sites like Suzy’s Wreck, Coral Garden, Bounty Bay, Lobsters’ Avenue, and Shelter Cove.&lt;/p&gt;&lt;p&gt;As Goa Tourism&apos;s exclusive Diving Centre, we guarantee you an unforgettable and surreal scuba diving experience. In our 3rd season of operation, we were already on TripAdvisor’s ‘The 10 Best India Scuba and Snorkeling Activities.’ We also have the added distinction of being affiliated with PADI and SSI, two of the world&apos;s leading diver training organizations. Our PADI and SSI certified instructors have dived in the waters all around the globe and are there to guide you, entertain you, and keep you safe in the event of any exigency. We have the equipment, the tra&lt;/p&gt;"
+    }
+  ],
+  "PackageMedia": [
+    {
+      "IsDefaultImage": true,
+      "FileExtension": "jpeg",
+      "FileName": "b1.jpeg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "jpg",
+      "FileName": "somnath.jpg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "pdf",
+      "FileName": "complaint_form.pdf",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "IsPublish": true,
+  "PackageCreatedBy": 0,
+  "PackageCreatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageUpdatedBy": 0,
+  "PackageUpdatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageIsActive": false
+},{
+  "_id": "f98b1d37a3647112045c64ff",
+  "PackageID": 102,
+  "PackageTitle": "Explore Singapore ff",
+  "Category": [
+    "Adventure",
+    "Nature"
+  ],
+  "PackageType": [
+    "Group",
+    "Private"
+  ],
+  "BestSeasion": [
+    "Summer",
+    "Spring"
+  ],
+  "CountryName": "india",
+  "StateName": "Asam",
+  "CityName": "Ahmedabad",
+  "StarRating": 5,
+  "MaxAltitude": "3500 Ft.",
+  "Difficulty": "Moderate",
+  "Distance": "8 km",
+  "Destinations": [
+    {
+      "DestinationName": "Zurich",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-06-01T00:00:00.000Z"
+          },
+          "Available": 20,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-07-01T00:00:00.000Z"
+          },
+          "Available": 15,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-08-01T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 1000,
+      "ChildPrice": 800,
+      "GST": 18,
+      "Discount": 10,
+      "BookBefore": {
+        "Days": 20,
+        "Refundable": true
+      },
+      "PartPaymentType": "Percentage",
+      "PartPaymentValue": 50,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Airport Pickup",
+          "Price": 100
+        },
+        {
+          "ServiceName": "Guide Service",
+          "Price": 300
+        }
+      ]
+    },
+    {
+      "DestinationName": "Lucerne",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-06-15T00:00:00.000Z"
+          },
+          "Available": 10,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-07-15T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-08-15T00:00:00.000Z"
+          },
+          "Available": 2,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 1200,
+      "ChildPrice": 1000,
+      "GST": 18,
+      "Discount": 5,
+      "BookBefore": {
+        "Days": 10,
+        "Refundable": false
+      },
+      "PartPaymentType": "Fixed",
+      "PartPaymentValue": 500,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Equipment Rental",
+          "Price": 200
+        },
+        {
+          "ServiceName": "Cable Car Ride",
+          "Price": 150
+        }
+      ]
+    }
+  ],
+  "Overview": "Experience the culture and beauty of Bali on this 7-day adventure. From exploring rice terraces to soaking up the sun on the beaches, this tour offers something for everyone.",
+  "MainAttraction": "Visit the iconic temples of Bali, including the Ulun Danu Beratan Temple and the Tanah Lot Temple. Experience traditional Balinese culture with a visit to the Ubud Market and a Balinese dance performance.",
+  "PriceGuideLine": "Prices are per person based on double occupancy. Single supplement and triple occupancy rates are available on request. Prices are exclusive of airfare, visa fees, and any additional taxes or fees.",
+  "TermsConditions": "Cancellation fees may apply. Please contact us for more information.",
+  "Inclusion": [
+    "Accommodation in 4-star hotels",
+    "Transportation between destinations",
+    "English-speaking guide",
+    "Meals as indicated in the itinerary"
+  ],
+  "Exclusion": [
+    "International airfare",
+    "Visa fees",
+    "Travel insurance",
+    "Optional tours and activities",
+    "Personal expenses"
+  ],
+  "ItineraryDays": [
+    {
+      "ItineraryTitle": "Day 1",
+      "ItineraryDetails": "&lt;p&gt;1. One open water dive of",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "ItineraryTitle": "Day 2",
+      "ItineraryDetails": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "Faqs": [
+    {
+      "Question": "sfdsfd",
+      "Answer": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;"
+    },
+    {
+      "Question": "fdsfsdf",
+      "Answer": "&lt;p&gt;Get ready to be blown away with the rich marine diversity and over 100 species of fish that Goa has to offer as we take you on a magical boat ride with your friends and family on an 8 hour excursion on the sea. Sight delightful dolphins on the way to Grandé Island where you get to scuba dive and snorkel in amazing dive sites like Suzy’s Wreck, Coral Garden, Bounty Bay, Lobsters’ Avenue, and Shelter Cove.&lt;/p&gt;&lt;p&gt;As Goa Tourism&apos;s exclusive Diving Centre, we guarantee you an unforgettable and surreal scuba diving experience. In our 3rd season of operation, we were already on TripAdvisor’s ‘The 10 Best India Scuba and Snorkeling Activities.’ We also have the added distinction of being affiliated with PADI and SSI, two of the world&apos;s leading diver training organizations. Our PADI and SSI certified instructors have dived in the waters all around the globe and are there to guide you, entertain you, and keep you safe in the event of any exigency. We have the equipment, the tra&lt;/p&gt;"
+    }
+  ],
+  "PackageMedia": [
+    {
+      "IsDefaultImage": true,
+      "FileExtension": "jpeg",
+      "FileName": "b1.jpeg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "jpg",
+      "FileName": "somnath.jpg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "pdf",
+      "FileName": "complaint_form.pdf",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "IsPublish": true,
+  "PackageCreatedBy": 0,
+  "PackageCreatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageUpdatedBy": 0,
+  "PackageUpdatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageIsActive": false
+},{
+  "_id": "f98b1d37a3647112045c64gg",
+  "PackageID": 102,
+  "PackageTitle": "Explore Singapore gg",
+  "Category": [
+    "Adventure",
+    "Nature"
+  ],
+  "PackageType": [
+    "Group",
+    "Private"
+  ],
+  "BestSeasion": [
+    "Summer",
+    "Spring"
+  ],
+  "CountryName": "india",
+  "StateName": "gujarat",
+  "CityName": "Ahmedabad",
+  "StarRating": 5,
+  "MaxAltitude": "3500 Ft.",
+  "Difficulty": "Moderate",
+  "Distance": "8 km",
+  "Destinations": [
+    {
+      "DestinationName": "Zurich",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-06-01T00:00:00.000Z"
+          },
+          "Available": 20,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-07-01T00:00:00.000Z"
+          },
+          "Available": 15,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-08-01T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 1000,
+      "ChildPrice": 800,
+      "GST": 18,
+      "Discount": 10,
+      "BookBefore": {
+        "Days": 20,
+        "Refundable": true
+      },
+      "PartPaymentType": "Percentage",
+      "PartPaymentValue": 50,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Airport Pickup",
+          "Price": 100
+        },
+        {
+          "ServiceName": "Guide Service",
+          "Price": 300
+        }
+      ]
+    },
+    {
+      "DestinationName": "Lucerne",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-06-15T00:00:00.000Z"
+          },
+          "Available": 10,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-07-15T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-08-15T00:00:00.000Z"
+          },
+          "Available": 2,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 1200,
+      "ChildPrice": 1000,
+      "GST": 18,
+      "Discount": 5,
+      "BookBefore": {
+        "Days": 10,
+        "Refundable": false
+      },
+      "PartPaymentType": "Fixed",
+      "PartPaymentValue": 500,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Equipment Rental",
+          "Price": 200
+        },
+        {
+          "ServiceName": "Cable Car Ride",
+          "Price": 150
+        }
+      ]
+    }
+  ],
+  "Overview": "Experience the culture and beauty of Bali on this 7-day adventure. From exploring rice terraces to soaking up the sun on the beaches, this tour offers something for everyone.",
+  "MainAttraction": "Visit the iconic temples of Bali, including the Ulun Danu Beratan Temple and the Tanah Lot Temple. Experience traditional Balinese culture with a visit to the Ubud Market and a Balinese dance performance.",
+  "PriceGuideLine": "Prices are per person based on double occupancy. Single supplement and triple occupancy rates are available on request. Prices are exclusive of airfare, visa fees, and any additional taxes or fees.",
+  "TermsConditions": "Cancellation fees may apply. Please contact us for more information.",
+  "Inclusion": [
+    "Accommodation in 4-star hotels",
+    "Transportation between destinations",
+    "English-speaking guide",
+    "Meals as indicated in the itinerary"
+  ],
+  "Exclusion": [
+    "International airfare",
+    "Visa fees",
+    "Travel insurance",
+    "Optional tours and activities",
+    "Personal expenses"
+  ],
+  "ItineraryDays": [
+    {
+      "ItineraryTitle": "Day 1",
+      "ItineraryDetails": "&lt;p&gt;1. One open water dive of",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "ItineraryTitle": "Day 2",
+      "ItineraryDetails": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "Faqs": [
+    {
+      "Question": "sfdsfd",
+      "Answer": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;"
+    },
+    {
+      "Question": "fdsfsdf",
+      "Answer": "&lt;p&gt;Get ready to be blown away with the rich marine diversity and over 100 species of fish that Goa has to offer as we take you on a magical boat ride with your friends and family on an 8 hour excursion on the sea. Sight delightful dolphins on the way to Grandé Island where you get to scuba dive and snorkel in amazing dive sites like Suzy’s Wreck, Coral Garden, Bounty Bay, Lobsters’ Avenue, and Shelter Cove.&lt;/p&gt;&lt;p&gt;As Goa Tourism&apos;s exclusive Diving Centre, we guarantee you an unforgettable and surreal scuba diving experience. In our 3rd season of operation, we were already on TripAdvisor’s ‘The 10 Best India Scuba and Snorkeling Activities.’ We also have the added distinction of being affiliated with PADI and SSI, two of the world&apos;s leading diver training organizations. Our PADI and SSI certified instructors have dived in the waters all around the globe and are there to guide you, entertain you, and keep you safe in the event of any exigency. We have the equipment, the tra&lt;/p&gt;"
+    }
+  ],
+  "PackageMedia": [
+    {
+      "IsDefaultImage": true,
+      "FileExtension": "jpeg",
+      "FileName": "b1.jpeg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "jpg",
+      "FileName": "somnath.jpg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "pdf",
+      "FileName": "complaint_form.pdf",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "IsPublish": true,
+  "PackageCreatedBy": 0,
+  "PackageCreatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageUpdatedBy": 0,
+  "PackageUpdatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageIsActive": false
+},{
+  "_id": "f98b1d37a3647112045c64hh",
+  "PackageID": 102,
+  "PackageTitle": "Explore Singapore hh",
+  "Category": [
+    "Adventure",
+    "Nature"
+  ],
+  "PackageType": [
+    "Group",
+    "Private"
+  ],
+  "BestSeasion": [
+    "Summer",
+    "Spring"
+  ],
+  "CountryName": "india",
+  "StateName": "gujarat",
+  "CityName": "Ahmedabad",
+  "StarRating": 5,
+  "MaxAltitude": "3500 Ft.",
+  "Difficulty": "Moderate",
+  "Distance": "8 km",
+  "Destinations": [
+    {
+      "DestinationName": "Zurich",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-06-01T00:00:00.000Z"
+          },
+          "Available": 20,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-07-01T00:00:00.000Z"
+          },
+          "Available": 15,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-08-01T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 1000,
+      "ChildPrice": 800,
+      "GST": 18,
+      "Discount": 10,
+      "BookBefore": {
+        "Days": 20,
+        "Refundable": true
+      },
+      "PartPaymentType": "Percentage",
+      "PartPaymentValue": 50,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Airport Pickup",
+          "Price": 100
+        },
+        {
+          "ServiceName": "Guide Service",
+          "Price": 300
+        }
+      ]
+    },
+    {
+      "DestinationName": "Lucerne",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-06-15T00:00:00.000Z"
+          },
+          "Available": 10,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-07-15T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-08-15T00:00:00.000Z"
+          },
+          "Available": 2,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 1200,
+      "ChildPrice": 1000,
+      "GST": 18,
+      "Discount": 5,
+      "BookBefore": {
+        "Days": 10,
+        "Refundable": false
+      },
+      "PartPaymentType": "Fixed",
+      "PartPaymentValue": 500,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Equipment Rental",
+          "Price": 200
+        },
+        {
+          "ServiceName": "Cable Car Ride",
+          "Price": 150
+        }
+      ]
+    }
+  ],
+  "Overview": "Experience the culture and beauty of Bali on this 7-day adventure. From exploring rice terraces to soaking up the sun on the beaches, this tour offers something for everyone.",
+  "MainAttraction": "Visit the iconic temples of Bali, including the Ulun Danu Beratan Temple and the Tanah Lot Temple. Experience traditional Balinese culture with a visit to the Ubud Market and a Balinese dance performance.",
+  "PriceGuideLine": "Prices are per person based on double occupancy. Single supplement and triple occupancy rates are available on request. Prices are exclusive of airfare, visa fees, and any additional taxes or fees.",
+  "TermsConditions": "Cancellation fees may apply. Please contact us for more information.",
+  "Inclusion": [
+    "Accommodation in 4-star hotels",
+    "Transportation between destinations",
+    "English-speaking guide",
+    "Meals as indicated in the itinerary"
+  ],
+  "Exclusion": [
+    "International airfare",
+    "Visa fees",
+    "Travel insurance",
+    "Optional tours and activities",
+    "Personal expenses"
+  ],
+  "ItineraryDays": [
+    {
+      "ItineraryTitle": "Day 1",
+      "ItineraryDetails": "&lt;p&gt;1. One open water dive of",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "ItineraryTitle": "Day 2",
+      "ItineraryDetails": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "Faqs": [
+    {
+      "Question": "sfdsfd",
+      "Answer": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;"
+    },
+    {
+      "Question": "fdsfsdf",
+      "Answer": "&lt;p&gt;Get ready to be blown away with the rich marine diversity and over 100 species of fish that Goa has to offer as we take you on a magical boat ride with your friends and family on an 8 hour excursion on the sea. Sight delightful dolphins on the way to Grandé Island where you get to scuba dive and snorkel in amazing dive sites like Suzy’s Wreck, Coral Garden, Bounty Bay, Lobsters’ Avenue, and Shelter Cove.&lt;/p&gt;&lt;p&gt;As Goa Tourism&apos;s exclusive Diving Centre, we guarantee you an unforgettable and surreal scuba diving experience. In our 3rd season of operation, we were already on TripAdvisor’s ‘The 10 Best India Scuba and Snorkeling Activities.’ We also have the added distinction of being affiliated with PADI and SSI, two of the world&apos;s leading diver training organizations. Our PADI and SSI certified instructors have dived in the waters all around the globe and are there to guide you, entertain you, and keep you safe in the event of any exigency. We have the equipment, the tra&lt;/p&gt;"
+    }
+  ],
+  "PackageMedia": [
+    {
+      "IsDefaultImage": true,
+      "FileExtension": "jpeg",
+      "FileName": "b1.jpeg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "jpg",
+      "FileName": "somnath.jpg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "pdf",
+      "FileName": "complaint_form.pdf",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "IsPublish": true,
+  "PackageCreatedBy": 0,
+  "PackageCreatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageUpdatedBy": 0,
+  "PackageUpdatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageIsActive": false
+},{
+  "_id": "f98b1d37a3647112045c64ii",
+  "PackageID": 102,
+  "PackageTitle": "Explore Singapore ii",
+  "Category": [
+    "Adventure",
+    "Nature"
+  ],
+  "PackageType": [
+    "Group",
+    "Private"
+  ],
+  "BestSeasion": [
+    "Summer",
+    "Spring"
+  ],
+  "CountryName": "india",
+  "StateName": "gujarat",
+  "CityName": "Ahmedabad",
+  "StarRating": 5,
+  "MaxAltitude": "3500 Ft.",
+  "Difficulty": "Moderate",
+  "Distance": "8 km",
+  "Destinations": [
+    {
+      "DestinationName": "Zurich",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-06-01T00:00:00.000Z"
+          },
+          "Available": 20,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-07-01T00:00:00.000Z"
+          },
+          "Available": 15,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-08-01T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 1000,
+      "ChildPrice": 800,
+      "GST": 18,
+      "Discount": 10,
+      "BookBefore": {
+        "Days": 20,
+        "Refundable": true
+      },
+      "PartPaymentType": "Percentage",
+      "PartPaymentValue": 50,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Airport Pickup",
+          "Price": 100
+        },
+        {
+          "ServiceName": "Guide Service",
+          "Price": 300
+        }
+      ]
+    },
+    {
+      "DestinationName": "Lucerne",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-06-15T00:00:00.000Z"
+          },
+          "Available": 10,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-07-15T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-08-15T00:00:00.000Z"
+          },
+          "Available": 2,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 1200,
+      "ChildPrice": 1000,
+      "GST": 18,
+      "Discount": 5,
+      "BookBefore": {
+        "Days": 10,
+        "Refundable": false
+      },
+      "PartPaymentType": "Fixed",
+      "PartPaymentValue": 500,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Equipment Rental",
+          "Price": 200
+        },
+        {
+          "ServiceName": "Cable Car Ride",
+          "Price": 150
+        }
+      ]
+    }
+  ],
+  "Overview": "Experience the culture and beauty of Bali on this 7-day adventure. From exploring rice terraces to soaking up the sun on the beaches, this tour offers something for everyone.",
+  "MainAttraction": "Visit the iconic temples of Bali, including the Ulun Danu Beratan Temple and the Tanah Lot Temple. Experience traditional Balinese culture with a visit to the Ubud Market and a Balinese dance performance.",
+  "PriceGuideLine": "Prices are per person based on double occupancy. Single supplement and triple occupancy rates are available on request. Prices are exclusive of airfare, visa fees, and any additional taxes or fees.",
+  "TermsConditions": "Cancellation fees may apply. Please contact us for more information.",
+  "Inclusion": [
+    "Accommodation in 4-star hotels",
+    "Transportation between destinations",
+    "English-speaking guide",
+    "Meals as indicated in the itinerary"
+  ],
+  "Exclusion": [
+    "International airfare",
+    "Visa fees",
+    "Travel insurance",
+    "Optional tours and activities",
+    "Personal expenses"
+  ],
+  "ItineraryDays": [
+    {
+      "ItineraryTitle": "Day 1",
+      "ItineraryDetails": "&lt;p&gt;1. One open water dive of",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "ItineraryTitle": "Day 2",
+      "ItineraryDetails": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "Faqs": [
+    {
+      "Question": "sfdsfd",
+      "Answer": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;"
+    },
+    {
+      "Question": "fdsfsdf",
+      "Answer": "&lt;p&gt;Get ready to be blown away with the rich marine diversity and over 100 species of fish that Goa has to offer as we take you on a magical boat ride with your friends and family on an 8 hour excursion on the sea. Sight delightful dolphins on the way to Grandé Island where you get to scuba dive and snorkel in amazing dive sites like Suzy’s Wreck, Coral Garden, Bounty Bay, Lobsters’ Avenue, and Shelter Cove.&lt;/p&gt;&lt;p&gt;As Goa Tourism&apos;s exclusive Diving Centre, we guarantee you an unforgettable and surreal scuba diving experience. In our 3rd season of operation, we were already on TripAdvisor’s ‘The 10 Best India Scuba and Snorkeling Activities.’ We also have the added distinction of being affiliated with PADI and SSI, two of the world&apos;s leading diver training organizations. Our PADI and SSI certified instructors have dived in the waters all around the globe and are there to guide you, entertain you, and keep you safe in the event of any exigency. We have the equipment, the tra&lt;/p&gt;"
+    }
+  ],
+  "PackageMedia": [
+    {
+      "IsDefaultImage": true,
+      "FileExtension": "jpeg",
+      "FileName": "b1.jpeg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "jpg",
+      "FileName": "somnath.jpg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "pdf",
+      "FileName": "complaint_form.pdf",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "IsPublish": true,
+  "PackageCreatedBy": 0,
+  "PackageCreatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageUpdatedBy": 0,
+  "PackageUpdatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageIsActive": false
+},{
+  "_id": "f98b1d37a3647112045c64jj",
+  "PackageID": 102,
+  "PackageTitle": "Explore Singapore jj",
+  "Category": [
+    "Adventure",
+    "Nature"
+  ],
+  "PackageType": [
+    "Group",
+    "Private"
+  ],
+  "BestSeasion": [
+    "Summer",
+    "Spring"
+  ],
+  "CountryName": "india",
+  "StateName": "gujarat",
+  "CityName": "Ahmedabad",
+  "StarRating": 5,
+  "MaxAltitude": "3500 Ft.",
+  "Difficulty": "Moderate",
+  "Distance": "8 km",
+  "Destinations": [
+    {
+      "DestinationName": "Zurich",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-03-20T04:27:40.210Z"
+          },
+          "Available": 20,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-03-20T04:27:40.210Z"
+          },
+          "Available": 15,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-03-20T04:27:40.210Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": "1000",
+      "ChildPrice": "800",
+      "GST": 18,
+      "Discount": 10,
+      "BookBefore": {
+        "Days": 20,
+        "Refundable": true
+      },
+      "PartPaymentType": "Percentage",
+      "PartPaymentValue": "50",
+      "AdditionalServices": [
+        {
+          "ServiceName": "Airport Pickup",
+          "Price": "100"
+        },
+        {
+          "ServiceName": "Guide Service",
+          "Price": "300"
+        }
+      ]
+    },
+    {
+      "DestinationName": "Lucerne",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-03-20T04:27:40.210Z"
+          },
+          "Available": 10,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-03-20T04:27:40.210Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-03-20T04:27:40.210Z"
+          },
+          "Available": 2,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": "1200",
+      "ChildPrice": "1000",
+      "GST": 18,
+      "Discount": 5,
+      "BookBefore": {
+        "Days": 10,
+        "Refundable": false
+      },
+      "PartPaymentType": "Fixed",
+      "PartPaymentValue": "500",
+      "AdditionalServices": [
+        {
+          "ServiceName": "Equipment Rental",
+          "Price": "200"
+        },
+        {
+          "ServiceName": "Cable Car Ride",
+          "Price": "150"
+        }
+      ]
+    }
+  ],
+  "Overview": "Experience the culture and beauty of Bali on this 7-day adventure. From exploring rice terraces to soaking up the sun on the beaches, this tour offers something for everyone.",
+  "MainAttraction": "Visit the iconic temples of Bali, including the Ulun Danu Beratan Temple and the Tanah Lot Temple. Experience traditional Balinese culture with a visit to the Ubud Market and a Balinese dance performance.",
+  "PriceGuideLine": "Prices are per person based on double occupancy. Single supplement and triple occupancy rates are available on request. Prices are exclusive of airfare, visa fees, and any additional taxes or fees.",
+  "TermsConditions": "Cancellation fees may apply. Please contact us for more information.",
+  "Inclusion": [
+    "Accommodation in 4-star hotels",
+    "Transportation between destinations",
+    "English-speaking guide",
+    "Meals as indicated in the itinerary"
+  ],
+  "Exclusion": [
+    "International airfare",
+    "Visa fees",
+    "Travel insurance",
+    "Optional tours and activities",
+    "Personal expenses"
+  ],
+  "ItineraryDays": [
+    {
+      "ItineraryTitle": "Day 1",
+      "ItineraryDetails": "&lt;p&gt;1. One open water dive of",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "ItineraryTitle": "Day 2",
+      "ItineraryDetails": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "Faqs": [
+    {
+      "Question": "sfdsfd",
+      "Answer": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;"
+    },
+    {
+      "Question": "fdsfsdf",
+      "Answer": "&lt;p&gt;Get ready to be blown away with the rich marine diversity and over 100 species of fish that Goa has to offer as we take you on a magical boat ride with your friends and family on an 8 hour excursion on the sea. Sight delightful dolphins on the way to Grandé Island where you get to scuba dive and snorkel in amazing dive sites like Suzy’s Wreck, Coral Garden, Bounty Bay, Lobsters’ Avenue, and Shelter Cove.&lt;/p&gt;&lt;p&gt;As Goa Tourism&apos;s exclusive Diving Centre, we guarantee you an unforgettable and surreal scuba diving experience. In our 3rd season of operation, we were already on TripAdvisor’s ‘The 10 Best India Scuba and Snorkeling Activities.’ We also have the added distinction of being affiliated with PADI and SSI, two of the world&apos;s leading diver training organizations. Our PADI and SSI certified instructors have dived in the waters all around the globe and are there to guide you, entertain you, and keep you safe in the event of any exigency. We have the equipment, the tra&lt;/p&gt;"
+    }
+  ],
+  "PackageMedia": [
+    {
+      "IsDefaultImage": true,
+      "FileExtension": "jpeg",
+      "FileName": "b1.jpeg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "jpg",
+      "FileName": "somnath.jpg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "pdf",
+      "FileName": "complaint_form.pdf",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "IsPublish": true,
+  "PackageCreatedBy": 0,
+  "PackageCreatedDate": {
+    "$date": "2023-03-20T04:27:40.210Z"
+  },
+  "PackageUpdatedBy": 0,
+  "PackageUpdatedDate": {
+    "$date": "2023-03-20T04:27:40.210Z"
+  },
+  "PackageIsActive": false
+},{
+  "_id": "f98b1d37a3647112045c64ll",
+  "PackageID": 123,
+  "PackageTitle": "Sample Package",
+  "Category": [
+    "Adventure",
+    "Nature"
+  ],
+  "PackageType": [
+    "Group Tour"
+  ],
+  "BestSeasion": [
+    "Summer",
+    "Spring"
+  ],
+  "CountryName": "India",
+  "StateName": "Himachal Pradesh",
+  "CityName": "Manali",
+  "StarRating": 4,
+  "MaxAltitude": "4000 m",
+  "Difficulty": "Moderate",
+  "Distance": "50 km",
+  "Destinations": [
+    {
+      "DestinationName": "Everest Base Camp",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-04-15T00:00:00.000Z"
+          },
+          "Available": 20,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-04-20T00:00:00.000Z"
+          },
+          "Available": 15,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-04-27T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 2500,
+      "ChildPrice": 2000,
+      "GST": 5,
+      "Discount": 10,
+      "BookBefore": {
+        "Days": 15,
+        "Refundable": true
+      },
+      "PartPaymentType": "Percentage",
+      "PartPaymentValue": 50,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Rafting",
+          "Price": 500
+        },
+        {
+          "ServiceName": "Paragliding",
+          "Price": 1000
+        }
+      ]
+    },
+    {
+      "DestinationName": "Annapurna Base Camp",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-05-05T00:00:00.000Z"
+          },
+          "Available": 10,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-05-15T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-05-20T00:00:00.000Z"
+          },
+          "Available": 2,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 5400,
+      "ChildPrice": 1000,
+      "GST": 18,
+      "Discount": 5,
+      "BookBefore": {
+        "Days": 10,
+        "Refundable": false
+      },
+      "PartPaymentType": "Fixed",
+      "PartPaymentValue": 500,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Sightseeing Tour",
+          "Price": 800
+        },
+        {
+          "ServiceName": "Cable Car Ride",
+          "Price": 150
+        }
+      ]
+    }
+  ],
+  "Overview": "This is a sample package for a trip to Manali",
+  "MainAttraction": "Rohtang Pass, Solang Valley",
+  "PriceGuideLine": "Prices are subject to change without prior notice.",
+  "TermsConditions": "Cancellation policy: Refunds will be provided based on the number of days prior to the trip.",
+  "Inclusion": [
+    "Accommodation",
+    "Meals",
+    "Transportation"
+  ],
+  "Exclusion": [
+    "Airfare",
+    "Personal expenses"
+  ],
+  "ItineraryDays": [
+    {
+      "ItineraryTitle": "Day 1",
+      "ItineraryDetails": "Arrive at Manali",
+      "FileURL": ""
+    },
+    {
+      "ItineraryTitle": "Day 2",
+      "ItineraryDetails": "Sightseeing in Manali",
+      "FileURL": ""
+    },
+    {
+      "ItineraryTitle": "Day 3",
+      "ItineraryDetails": "Visit to Rohtang Pass",
+      "FileURL": ""
+    }
+  ],
+  "Faqs": [
+    {
+      "Question": "What is the cancellation policy?",
+      "Answer": "Refunds will be provided based on the number of days prior to the trip."
+    },
+    {
+      "Question": "What is the refund policy?",
+      "Answer": "Refunds will be provided based on the number of days prior to the trip."
+    }
+  ],
+  "PackageMedia": [
+    {
+      "IsDefaultImage": true,
+      "FileExtension": ".jpg",
+      "FileName": "sample-package-image",
+      "FileURL": "https://example.com/sample-package-image.jpg"
+    }
+  ],
+  "IsPublish": true,
+  "PackageCreatedBy": 0,
+  "PackageCreatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageUpdatedBy": 0,
+  "PackageUpdatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageIsActive": false
+},{
+  "_id": "f98b1d37a3647112045c64kk",
+  "PackageID": 102,
+  "PackageTitle": "Trekking in the Himalayas",
+  "Category": [
+    "Adventure",
+    "Trekking"
+  ],
+  "PackageType": [
+    "Group Tour"
+  ],
+  "BestSeasion": [
+    "Spring",
+    "Autumn"
+  ],
+  "CountryName": "Nepal",
+  "StateName": "Province No. 1",
+  "CityName": "Kathmandu",
+  "StarRating": 4,
+  "MaxAltitude": "5,364 meters",
+  "Difficulty": "Challenging",
+  "Distance": "120 km",
+  "Destinations": [
+    {
+      "DestinationName": "Everest Base Camp",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-04-15T00:00:00.000Z"
+          },
+          "Available": 20,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-04-20T00:00:00.000Z"
+          },
+          "Available": 15,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-04-27T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 1000,
+      "ChildPrice": 800,
+      "GST": 18,
+      "Discount": 10,
+      "BookBefore": {
+        "Days": 20,
+        "Refundable": true
+      },
+      "PartPaymentType": "Percentage",
+      "PartPaymentValue": 50,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Helicopter Ride",
+          "Price": 500
+        },
+        {
+          "ServiceName": "Equipment Rental",
+          "Price": 200
+        }
+      ]
+    },
+    {
+      "DestinationName": "Annapurna Base Camp",
+      "Slots": [
+        {
+          "Date": {
+            "$date": "2023-05-05T00:00:00.000Z"
+          },
+          "Available": 10,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-05-15T00:00:00.000Z"
+          },
+          "Available": 5,
+          "Duration": 5
+        },
+        {
+          "Date": {
+            "$date": "2023-05-20T00:00:00.000Z"
+          },
+          "Available": 2,
+          "Duration": 5
+        }
+      ],
+      "AdultPrice": 5400,
+      "ChildPrice": 1000,
+      "GST": 18,
+      "Discount": 5,
+      "BookBefore": {
+        "Days": 10,
+        "Refundable": false
+      },
+      "PartPaymentType": "Fixed",
+      "PartPaymentValue": 500,
+      "AdditionalServices": [
+        {
+          "ServiceName": "Sightseeing Tour",
+          "Price": 800
+        },
+        {
+          "ServiceName": "Cable Car Ride",
+          "Price": 150
+        }
+      ]
+    }
+  ],
+  "Overview": "This trek takes you through some of the most breathtaking mountain views in the world. You will see the mighty Himalayas up close and experience the unique culture of the Sherpa people.",
+  "MainAttraction": "Mount Everest, Annapurna Range, Sherpa Culture",
+  "PriceGuideLine": "Prices are per person and based on double occupancy. Single supplement applies.",
+  "TermsConditions": "Cancellation policy applies. Please see our website for details.",
+  "Inclusion": [
+    "Accommodation",
+    "Meals",
+    "Transportation",
+    "Guide",
+    "Permits"
+  ],
+  "Exclusion": [
+    "International Flights",
+    "Visa Fees",
+    "Travel Insurance"
+  ],
+  "ItineraryDays": [
+    {
+      "ItineraryTitle": "Day 1",
+      "ItineraryDetails": "&lt;p&gt;1. One open water dive of",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "ItineraryTitle": "Day 2",
+      "ItineraryDetails": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "Faqs": [
+    {
+      "Question": "sfdsfd",
+      "Answer": "&lt;ul&gt;&lt;li&gt;1. One open water dive of 40 minutes, max depth 40 ft&lt;/li&gt;&lt;li&gt;2. Pool training session for acclimatization and dive preparation&lt;/li&gt;&lt;li&gt;3. Snorkeling&lt;/li&gt;&lt;li&gt;4. High definition stills and videos&lt;/li&gt;&lt;li&gt;5. Scuba diving certificate&lt;/li&gt;&lt;li&gt;6. On-board refreshments, fruits, juice&lt;/li&gt;&lt;li&gt;7. Dolphin sighting&lt;/li&gt;&lt;/ul&gt;"
+    },
+    {
+      "Question": "fdsfsdf",
+      "Answer": "&lt;p&gt;Get ready to be blown away with the rich marine diversity and over 100 species of fish that Goa has to offer as we take you on a magical boat ride with your friends and family on an 8 hour excursion on the sea. Sight delightful dolphins on the way to Grandé Island where you get to scuba dive and snorkel in amazing dive sites like Suzy’s Wreck, Coral Garden, Bounty Bay, Lobsters’ Avenue, and Shelter Cove.&lt;/p&gt;&lt;p&gt;As Goa Tourism&apos;s exclusive Diving Centre, we guarantee you an unforgettable and surreal scuba diving experience. In our 3rd season of operation, we were already on TripAdvisor’s ‘The 10 Best India Scuba and Snorkeling Activities.’ We also have the added distinction of being affiliated with PADI and SSI, two of the world&apos;s leading diver training organizations. Our PADI and SSI certified instructors have dived in the waters all around the globe and are there to guide you, entertain you, and keep you safe in the event of any exigency. We have the equipment, the tra&lt;/p&gt;"
+    }
+  ],
+  "PackageMedia": [
+    {
+      "IsDefaultImage": true,
+      "FileExtension": "jpeg",
+      "FileName": "b1.jpeg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "jpg",
+      "FileName": "somnath.jpg",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    },
+    {
+      "IsDefaultImage": false,
+      "FileExtension": "pdf",
+      "FileName": "complaint_form.pdf",
+      "FileURL": "https://www.dejavutours.in/images/WhatsApp%20Image%202022-09-28%20at%202.34.00%20AM.jpeg"
+    }
+  ],
+  "IsPublish": true,
+  "PackageCreatedBy": 0,
+  "PackageCreatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageUpdatedBy": 0,
+  "PackageUpdatedDate": {
+    "$date": "2023-06-01T00:00:00.000Z"
+  },
+  "PackageIsActive": false
+}]
