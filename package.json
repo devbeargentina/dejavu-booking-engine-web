@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "./",
+  "engines": {
+      "node": ">=16.0.0"
+  }
   "dependencies": {
     "@ant-design/icons": "^5.0.1",
     "@ckeditor/ckeditor5-build-classic": "^31.0.0",
