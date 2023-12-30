@@ -4,8 +4,8 @@
   "private": true,
   "homepage": "./",
   "engines": {
-      "node": "16.20.2"
-  }
+      "node": "18.20.2"
+  },
   "dependencies": {
     "@ant-design/icons": "^5.0.1",
     "@ckeditor/ckeditor5-build-classic": "^31.0.0",
